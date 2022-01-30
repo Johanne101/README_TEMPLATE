@@ -81,15 +81,21 @@ A README should tell a visitor at a glance what is in your repository and what i
 </p>
 #### README FAQ <a name="readme-faq"></a>
 <p>
-"I have a README in my repo but I'm still failing the checker."
+
+>"I have a README in my repo but I'm still failing the checker."
+
 Ensure that your README is not an empty file and that it is named correctly. If this does not solve the issue, the README is not the reason the checks are failing. 
-"I can put random text in the README and still pass the checker."
+
+>"I can put random text in the README and still pass the checker."
+
 You can, but you do not benefit from this in any way, as the checker and your grades are not what employers will or want to see.
 </p>
+
 #### Resources <a name="readme-resources"></a>
 * [GitHub Help: About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 * [Automated table of contents Readme file](https://guides.lib.umich.edu/c.php?g=283073&p=1886010)
-
+* [Automated TOC Feature](https://github.com/ekalinin/github-markdown-toc)
+  * [TOC Installation: *Video*](https://www.youtube.com/watch?v=xdNIia7Z2RE)
 *Other Readme file examples:*
 
 * `AirBnB_clone`[/`web_static`](https://github.com/Johanne101/AirBnB_clone/blob/main/web_static/README.md)
