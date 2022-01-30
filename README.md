@@ -88,19 +88,21 @@ A README.md file is a documentation about the files in a directory, and on GitHu
 <p>
 You will be required to have a README in the root directory of each project you work on and push to GitHub. Your READMEs must not be empty files, and they can include the following information:
 </p>
+
 * What the project is about
 * What you learned in this project
 * A description of the tasks your code solves
 * Usage / how to utilize the code in your repo
 * Your contact information (email, twitter, etc.)
 * Images or illustrations pertaining to the project 
+
 <p>
 A README should tell a visitor at a glance what is in your repository and what it's for. We strongly encourage good READMEs because good documentation is just as important as the code. Having a clear README demonstrates the ability to communicate about your work as well as an understanding of the collaborative nature of programming.
 </p>
 
 #### README FAQ <a name="readme-faq"></a>
-
 <p>
+
 >"I have a README in my repo but I'm still failing the checker."
 
 Ensure that your README is not an empty file and that it is named correctly. If this does not solve the issue, the README is not the reason the checks are failing. 
@@ -117,10 +119,11 @@ You can, but you do not benefit from this in any way, as the checker and your gr
 * [Automated TOC Feature](https://github.com/ekalinin/github-markdown-toc)
   * [TOC Installation: *Video*](https://www.youtube.com/watch?v=xdNIia7Z2RE)
 
-*Other Readme file examples:*
+### *Other Readme file examples:*
 ----------
 
 * `AirBnB_clone`[/`web_static`](https://github.com/Johanne101/AirBnB_clone/blob/main/web_static/README.md)
+
   - Indexing Contents
 * `System_engineering-devops`[/`web_infrastructure_design`](https://github.com/Johanne101/holberton-system_engineering-devops/blob/main/0x09-web_infrastructure_design/README.md)
 * [Markdown File](https://github.com/emn178/markdown/blob/master/README.md#markdown) *"core syntax and extensions"(GMF)*
