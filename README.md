@@ -1,5 +1,21 @@
-README TEMPLATE
+Table of Contents
 =================
+
+* [README TEMPLATE](#readme-template)
+* [# Header 1](#-header-1)
+* [## Header 2](#-header-2)
+* [### Header 3](#-header-3)
+* [#### Header 4](#-header-4)
+* [##### Header 5](#-header-5)
+* [###### Header 6](#-header-6)
+
+   * [Index #01 "or how ever you want to call it"🤌🏽 <a name="user-content-reference1"></a>](#index-01-or-how-ever-you-want-to-call-it-)
+   * [Index #02  <a name="user-content-reference_2"></a>](#index-02--)
+   * [Tags <a name="user-content-tag_index"></a>](#tags-)
+   * [Creating checklists <a name="user-content-checklists"></a>](#creating-checklists-)
+   * [Including Elements <a name="user-content-elements"></a>](#including-elements-)
+         * [README Overview <a name="user-content-overview"></a>](#readme-overview-)
+   * [Last Index example "emoji!" <a name="user-content-last_one"></a>](#last-index-example-emoji-)
 
 # # Header 1
 ## ## Header 2
