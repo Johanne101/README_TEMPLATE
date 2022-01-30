@@ -21,3 +21,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanne101&" alt="johanne101" /></p>
 
+### Foundations
+### Live Coding
+### Low-Level Programming
+### High-Level Programming
+### SysAdmin/DevOps - Foundations
+### Shell - Foundations
+### Airbnb - Foundations
+### Smart Contract Software - Portfolio Project
