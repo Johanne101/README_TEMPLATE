@@ -82,7 +82,9 @@ Including Elements <a name="elements"></a>
 <p>
 A README.md file is a documentation about the files in a directory, and on GitHub, the README is the first thing visitors see when visiting a repository. You should consider your GitHub as your portfolio where you can showcase your work to potential employers. With that in mind, you should strive to have clear, informative READMEs describing each project.
 </p>
+
 #### README Basics <a name="Basics"></a>
+
 <p>
 You will be required to have a README in the root directory of each project you work on and push to GitHub. Your READMEs must not be empty files, and they can include the following information:
 </p>
@@ -95,9 +97,10 @@ You will be required to have a README in the root directory of each project you 
 <p>
 A README should tell a visitor at a glance what is in your repository and what it's for. We strongly encourage good READMEs because good documentation is just as important as the code. Having a clear README demonstrates the ability to communicate about your work as well as an understanding of the collaborative nature of programming.
 </p>
-#### README FAQ <a name="readme-faq"></a>
-<p>
 
+#### README FAQ <a name="readme-faq"></a>
+
+<p>
 >"I have a README in my repo but I'm still failing the checker."
 
 Ensure that your README is not an empty file and that it is named correctly. If this does not solve the issue, the README is not the reason the checks are failing. 
@@ -108,11 +111,14 @@ You can, but you do not benefit from this in any way, as the checker and your gr
 </p>
 
 #### Resources <a name="readme-resources"></a>
+
 * [GitHub Help: About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 * [Automated table of contents Readme file](https://guides.lib.umich.edu/c.php?g=283073&p=1886010)
 * [Automated TOC Feature](https://github.com/ekalinin/github-markdown-toc)
   * [TOC Installation: *Video*](https://www.youtube.com/watch?v=xdNIia7Z2RE)
+
 *Other Readme file examples:*
+----------
 
 * `AirBnB_clone`[/`web_static`](https://github.com/Johanne101/AirBnB_clone/blob/main/web_static/README.md)
   - Indexing Contents
