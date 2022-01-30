@@ -11,16 +11,16 @@ README TEMPLATE
 ***JUMP TO...***:
 
 1. [index #01](#reference1)
-
-2. [How to create an HTML page](#reference_2)
-
+2. [index #2](#reference_2)
 3. [Tags](#tag_index)
-
-4. [Lists](#checklists)
-
+4. [CheckLists](#checklists)
 5. [Including Elements](#elements)
-
-6. [And so on...](#last_one)
+6. [Overview](#overview)
+7. [Basics](#Basics)
+8. [Readme FAQ's](#readme-faq)
+9. [Resources](#readme-resources")
+10. [End of Page](#last_one)
+* [And so on...](#and_so_on)
 
 
 Index #01 "or how ever you want to call it"🤌🏽 <a name="reference1"></a>
@@ -44,27 +44,51 @@ These appear with a box that can be activated by clicking on it. You can also ad
 Including Elements <a name="elements"></a>
 -----
 <p>
-Make sure the file always includes the following elements:
+**Make sure the file always includes the following elements:**
 
-Titles and internal titles
-Introduction - the project's aim
-Technologies
-Launch
+1. Titles and internal titles
+2. Introduction - the project's aim
+3. Technologies
+4. Launch
 
-Consider also using additional elements such as: 
+**Consider also using additional elements such as:**
 
-Table of contents
-Illustrations
-Scope of functionalities 
-Examples of use
-Project status 
-Sources
-Other information
+* Table of contents
+* Illustrations
+* Scope of functionalities 
+* Examples of use
+* Project status 
+* Sources
+* Other information
 </p>
 
-Last Index example "emoji!" <a name="last_one"></a>
--------------
-
+#### README Overview <a name="overview"></a>
+<p>
+A README.md file is a documentation about the files in a directory, and on GitHub, the README is the first thing visitors see when visiting a repository. You should consider your GitHub as your portfolio where you can showcase your work to potential employers. With that in mind, you should strive to have clear, informative READMEs describing each project.
+</p>
+#### README Basics <a name="Basics"></a>
+<p>
+You will be required to have a README in the root directory of each project you work on and push to GitHub. Your READMEs must not be empty files, and they can include the following information:
+</p>
+* What the project is about
+* What you learned in this project
+* A description of the tasks your code solves
+* Usage / how to utilize the code in your repo
+* Your contact information (email, twitter, etc.)
+* Images or illustrations pertaining to the project 
+<p>
+A README should tell a visitor at a glance what is in your repository and what it's for. We strongly encourage good READMEs because good documentation is just as important as the code. Having a clear README demonstrates the ability to communicate about your work as well as an understanding of the collaborative nature of programming.
+</p>
+#### README FAQ <a name="readme-faq"></a>
+<p>
+"I have a README in my repo but I'm still failing the checker."
+Ensure that your README is not an empty file and that it is named correctly. If this does not solve the issue, the README is not the reason the checks are failing. 
+"I can put random text in the README and still pass the checker."
+You can, but you do not benefit from this in any way, as the checker and your grades are not what employers will or want to see.
+</p>
+#### Resources <a name="readme-resources"></a>
+* [GitHub Help: About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+* [Automated table of contents Readme file](https://guides.lib.umich.edu/c.php?g=283073&p=1886010)
 
 *Other Readme file examples:*
 
@@ -73,3 +97,7 @@ Last Index example "emoji!" <a name="last_one"></a>
 * `System_engineering-devops`[/`web_infrastructure_design`](https://github.com/Johanne101/holberton-system_engineering-devops/blob/main/0x09-web_infrastructure_design/README.md)
 * [Markdown File](https://github.com/emn178/markdown/blob/master/README.md#markdown) *"core syntax and extensions"(GMF)*
 * [Showcasing your repos](https://github.com/alexandramartinez)
+
+Last Index example "emoji!" <a name="last_one"></a>
+-------------
+
